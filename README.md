@@ -3,6 +3,8 @@ Test site status script
 
 测试站网络质量脚本,自备url.txt
 
+`check.sh`
+
 需要安装curl，parallel和shuf
 
 ua从sqlmap里面挖的
